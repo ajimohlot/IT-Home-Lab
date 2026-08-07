@@ -86,25 +86,25 @@ Windows successfully recognised **24GB** of installed memory after the upgrade.
 
 ---
 
-# Screenshots
+# 📸 Screenshots
 
 ## Before Upgrade
 
 ### CPU
 
-![CPU Before](Screenshots/Before/CPU-Before.png)
+![CPU Before](Screenshots/Before/CPU-Before.jpg)
 
 ### Task Manager
 
-![Task Manager Before](Screenshots/Before/Task-Manager-Before.png)
+![Task Manager Before](Screenshots/Before/Task-Manager-Before.jpg)
 
 ### System Information
 
-![System Information Before](Screenshots/Before/System-Information-Before.png)
+![System Information Before](Screenshots/Before/System-Information-Before.jpg)
 
 ### System About
 
-![System About Before](Screenshots/Before/System-About-Before.png)
+![System About Before](Screenshots/Before/System-About-Before.jpg)
 
 ---
 
@@ -112,19 +112,19 @@ Windows successfully recognised **24GB** of installed memory after the upgrade.
 
 ### CPU
 
-![CPU After](Screenshots/After/CPU-After.png)
+![CPU After](Screenshots/After/CPU-After.jpg)
 
 ### Task Manager
 
-![Task Manager After](Screenshots/After/Task-Manager-After.png)
+![Task Manager After](Screenshots/After/Task-Manager-After.jpg)
 
 ### System Information
 
-![System Information After](Screenshots/After/System-Information-After.png)
+![System Information After](Screenshots/After/System-Information-After.jpg)
 
 ### System About
 
-![System About After](Screenshots/After/System-About-After.png)
+![System About After](Screenshots/After/System-About-After.jpg)
 
 ---
 
