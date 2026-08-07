@@ -163,8 +163,8 @@ This upgraded workstation will be used for future projects involving:
 
 ---
 
-# Video Demonstration
+# 🎥 Video Demonstration
 
-A complete walkthrough of this project is available below.
+A complete walkthrough of this project is available on YouTube.
 
-▶ [Watch the Project Walkthrough](Video/Project-01-RAM-Upgrade.mp4)
+▶ https://youtu.be/LkXQC3kDFws
